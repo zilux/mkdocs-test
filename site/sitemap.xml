@@ -8,4 +8,12 @@
          <loc>http://www.zilux.nl/about/</loc>
          <lastmod>2025-03-23</lastmod>
     </url>
+    <url>
+         <loc>http://www.zilux.nl/blog/</loc>
+         <lastmod>2025-03-23</lastmod>
+    </url>
+    <url>
+         <loc>http://www.zilux.nl/blog/posts/hz/</loc>
+         <lastmod>2025-03-23</lastmod>
+    </url>
 </urlset>

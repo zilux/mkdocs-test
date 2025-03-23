@@ -1,9 +1,9 @@
 site_name: Zilux Docs
 site_description: an example blog set up following the tutorial
 site_url: http://www.zilux.nl
-nav:
-  - Home: index.md
-  - About: about.md
+#nav:
+#  - Home: index.md
+#  - About: about.md
 theme: readthedocs  
 
 #plugins:
