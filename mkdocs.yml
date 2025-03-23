@@ -6,6 +6,6 @@ nav:
   - About: about.md
 theme: readthedocs  
 
-plugins:
-  - search
-  - blog
+#plugins:
+#  - search
+#  - blog
